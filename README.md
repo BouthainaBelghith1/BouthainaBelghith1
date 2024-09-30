@@ -18,9 +18,6 @@
   <a href="https://www.facebook.com/bouthayna.belgh/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40px"/>
   </a>
-  <a href="mailto:boutheinabelg1@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_icon_%282020%29.png](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631)" alt="Gmail" width="35px"/>
-  </a>
 </p>
 
 ---
