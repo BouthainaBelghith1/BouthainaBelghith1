@@ -13,7 +13,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bouthaina | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+[<img align="left" alt="bouthaina | LinkedIn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][LinkedIn]
 [<img align="left" alt="bouthaina | Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />][Facebook]
 
 <br />
