@@ -19,7 +19,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40px"/>
   </a>
   <a href="mailto:boutheinabelg1@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Gmail_Icon.svg" alt="Gmail" width="35px"/>
+    <svg width="35" height="35" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M7.64 5C4.15 5 1.29 7.86 1.29 11.36V36.64C1.29 40.14 4.15 43 7.64 43H40.36C43.85 43 46.71 40.14 46.71 36.64V11.36C46.71 7.86 43.85 5 40.36 5H7.64ZM6 11.36C6 8.14 8.14 6 11.36 6H40.64C43.86 6 46 8.14 46 11.36V14.64L24 25.64L6 14.64V11.36ZM24 27.64L46 14.64V36.64C46 39.21 43.21 42 40.64 42H7.36C4.79 42 2 39.21 2 36.64V14.64L24 27.64Z" fill="#EA4335"/>
+    </svg>
   </a>
 </p>
 
