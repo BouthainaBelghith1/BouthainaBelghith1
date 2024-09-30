@@ -71,4 +71,4 @@
 
 
 [Facebook]: https://www.facebook.com/bouthayna.belgh/
-[linkedin]: [https://www.linkedin.com/in/bilgehan-geçici-8b368614a/](https://www.linkedin.com/in/bouthaina-belghith-375713247/)
+[linkedin]: https://www.linkedin.com/in/bouthaina-belghith-375713247/
