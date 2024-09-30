@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Bouthaina Belghith <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="30px"/></h1>
 
----
-
 ### 👩‍💻 About Me 
 
 - 🎓 **3rd-year Information Systems Development** student (PFE)
