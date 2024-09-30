@@ -13,8 +13,8 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+[<img align="left" alt="bouthaina | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+[<img align="left" alt="bouthaina | Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />][Facebook]
 
 <br />
 
@@ -65,11 +65,10 @@
 
 ---
 
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+ ### ⭐️ From [Bouthaina](https://github.com/BouthainaBelghith1/) ### 
  
 ---
 
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[Facebook]: https://www.facebook.com/bouthayna.belgh/
+[linkedin]: [https://www.linkedin.com/in/bilgehan-geçici-8b368614a/](https://www.linkedin.com/in/bouthaina-belghith-375713247/)
