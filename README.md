@@ -4,10 +4,10 @@
 
 ## I'm a Computer Science Student  
 
-🎓 I am currently a 3rd-year student in information systems development (PFE).
-📚 I’m currently learning everything about Frontend and Backend technologies 😅
-📚 My future goal: to explore artificial intelligence, machine learning, new technologies, and develop new ideas.
-📖 Fun fact: I love reading novels to escape and fuel my imagination.
+- 🎓 I am currently a 3rd-year student in information systems development (PFE).
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💪🏼 My future goal: to explore artificial intelligence, machine learning, new technologies, and develop new ideas.
+- 📖 Fun fact: I love reading novels to escape and fuel my imagination.
 
 ---
 
