@@ -13,10 +13,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bouthaina-belghith-375713247/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35px"/> 
   </a>
   <a href="https://www.facebook.com/bouthayna.belgh/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40px"/>
+  </a>
+  <a href="https://www.instagram.com/boutheinabelgh/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40px"/>
   </a>
 </p>
 
