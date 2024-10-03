@@ -18,8 +18,11 @@
   <a href="https://www.facebook.com/bouthayna.belgh/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40px"/>
   </a>
-  <a href="https://www.instagram.com/boutheinabelgh/">
+  <a href="https://www.instagram.com/your_instagram_username/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40px"/>
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Gmail_Icon_%282020%29.png" alt="Gmail" width="40px"/>
   </a>
 </p>
 
