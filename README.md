@@ -22,7 +22,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40px"/>
   </a>
   <a href="mailto:boutheinabelg1@gmail.com">
-    <img src="https://static.vecteezy.com/system/resources/previews/042/165/820/original/gmail-icon-transparent-free-png.png" alt="Gmail" width="40px"/>
+    <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Gmail" width="40px"/>
   </a>
 </p>
 
