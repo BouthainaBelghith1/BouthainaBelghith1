@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/your_instagram_username/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40px"/>
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:boutheinabelg1@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Gmail_Icon_%282020%29.png" alt="Gmail" width="40px"/>
   </a>
 </p>
